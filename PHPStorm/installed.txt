@@ -1,0 +1,4 @@
+de.espend.idea.php.annotation
+fr.adrienbrault.idea.symfony2plugin
+net.antelle.intellij-xcode-dark-theme
+ru.adelf.idea.dotenv
